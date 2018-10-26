@@ -1,0 +1,6 @@
+{
+    "name": "typo3/tutorial-templating-with-fluid",
+    "type": "typo3-cms-documentation",
+    "description": "A tutorial on designing a basic web page using TYPO3 Fluid.",
+    "license": "CC-BY-NC-SA-4.0"
+}
