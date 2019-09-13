@@ -3,7 +3,6 @@
 Templating with FLUIDTEMPLATE
 =============================
 
-Draft of a new tutorial
+This was a draft which was moved to https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-Templating
 
-:Repository:   https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-TemplatingWithFluidtemplate
-:Published at: https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/TYPO3CMS-Tutorial-TemplatingWithFluidtemplate/
+This repository will be archived.
